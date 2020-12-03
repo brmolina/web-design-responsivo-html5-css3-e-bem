@@ -17,9 +17,9 @@ header img{
 	margin-top: 12px;
 }
 .container {
+	width: 100%;
 	padding-left: 15px;
 	padding-right: 15px;
-	width: 1200px;
 	margin: 0 auto;
 }
 
@@ -34,11 +34,11 @@ header img{
 }
 
 article {
+	padding: 10px;
 	border: 1px solid #95a4a5;
-	width: 320px;
-	padding-bottom: 20px;
+	width: 30%;
 	float: left;
-	margin: 20px;
+	margin-right: 2%;
 }
 
 article >h2{
@@ -46,7 +46,7 @@ article >h2{
 	color: #fff;
 	text-align: center;
 	line-height: 2.5;
-	margin: 0;
+	margin: -10px;
 	font-weight: normal;
 	font-size: 28px;
 } 
